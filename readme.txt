@@ -23,7 +23,9 @@ If you want no ads on post, just insert <!--noads-->
 == Installation ==
 
 Upload `xt-google-ads.php` to the `/wp-content/plugins/` directory
+
 Upload `xt-google-ads-page.php` to the `/wp-content/plugins/` directory
+
 Activate the plugin through the 'Plugins' menu in WordPress
 
 
