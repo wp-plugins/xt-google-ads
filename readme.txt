@@ -13,24 +13,16 @@ Just plugin to show Google Ads on every page.
 == Description ==
 
 Just plugin to show Google Ads on every page.
-
 You can put your ads code to your post and page.
-
 Just install then insert your Google Adsense code.
-
 This plugin automatic insert your ads code to your posts and pages.
-
 Insert `<!--ads-->` where you want to display ads position manually.
-
 If you want no ads on post, just insert `<!--noads-->`
 
 == Installation ==
 
-Upload `xt-google-ads.php` to the `/wp-content/plugins/` directory
-
-Upload `xt-google-ads-page.php` to the `/wp-content/plugins/` directory
-
-Activate the plugin through the 'Plugins' menu in WordPress
+* Upload `xt-google-ads.php` and `xt-google-ads-page.php` to the `/wp-content/plugins/` directory
+* Activate the plugin through the 'Plugins' menu in WordPress
 
 
 == Frequently Asked Questions ==
