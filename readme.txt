@@ -15,6 +15,10 @@ Just plugin to show Google Ads on every page.
 Just plugin to show Google Ads on every page.
 You can put your ads code to your post and page.
 Just install then insert your Google Adsense code.
+This plugin automatic insert your ads code to your posts and pages.
+Insert <!--ads--> where you want to display ads position manually.
+
+If you want no ads on post, just insert <!--noads-->
 
 == Installation ==
 
