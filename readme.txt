@@ -38,9 +38,12 @@ Answer to foo bar dilemma.
 == Screenshots ==
 
 1. Insert your ads code here.
-2. This is the second screen shot
+2. Option to change or hide ads on page/post.
 
 == Changelog ==
+
+= 1.1 =
+* Add option to post for change or hide ads.
 
 = 1.0 =
 * A change since the previous version.
